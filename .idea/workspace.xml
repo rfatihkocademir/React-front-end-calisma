@@ -120,30 +120,34 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="530" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577299273512" />
-    <state x="425" y="29" key="CommitChangelistDialog2" timestamp="1577149064638">
+    <state x="425" y="29" key="CommitChangelistDialog2" timestamp="1577371099932">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="425" y="29" key="CommitChangelistDialog2/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577149064638" />
-    <state width="1579" height="122" key="GridCell.Tab.0.bottom" timestamp="1577370699152">
+    <state x="425" y="29" key="CommitChangelistDialog2/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577371099932" />
+    <state width="1579" height="122" key="GridCell.Tab.0.bottom" timestamp="1577371074256">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1579" height="122" key="GridCell.Tab.0.bottom/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577370699152" />
-    <state width="1579" height="122" key="GridCell.Tab.0.center" timestamp="1577370699151">
+    <state width="1579" height="122" key="GridCell.Tab.0.bottom/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577371074256" />
+    <state width="1579" height="122" key="GridCell.Tab.0.center" timestamp="1577371074255">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1579" height="122" key="GridCell.Tab.0.center/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577370699151" />
-    <state width="1579" height="122" key="GridCell.Tab.0.left" timestamp="1577370699151">
+    <state width="1579" height="122" key="GridCell.Tab.0.center/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577371074255" />
+    <state width="1579" height="122" key="GridCell.Tab.0.left" timestamp="1577371074255">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1579" height="122" key="GridCell.Tab.0.left/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577370699151" />
-    <state width="1579" height="122" key="GridCell.Tab.0.right" timestamp="1577370699152">
+    <state width="1579" height="122" key="GridCell.Tab.0.left/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577371074255" />
+    <state width="1579" height="122" key="GridCell.Tab.0.right" timestamp="1577371074256">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1579" height="122" key="GridCell.Tab.0.right/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577370699152" />
-    <state x="392" y="167" key="Vcs.Push.Dialog.v2" timestamp="1577242183861">
+    <state width="1579" height="122" key="GridCell.Tab.0.right/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577371074256" />
+    <state x="392" y="167" key="Vcs.Push.Dialog.v2" timestamp="1577371011723">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="392" y="167" key="Vcs.Push.Dialog.v2/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577242183861" />
+    <state x="392" y="167" key="Vcs.Push.Dialog.v2/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577371011723" />
+    <state x="92" y="92" width="1416" height="686" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1577371120403">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="92" y="92" width="1416" height="686" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577371120403" />
     <state x="495" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1577204688830">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
