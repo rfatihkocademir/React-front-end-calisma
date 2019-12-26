@@ -1,9 +1,164 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80345c79-89d1-4e4c-9778-ee49d0ab845e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NavigationBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Productview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/test/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/yoda.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/yoda.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VJM68cyTo0K7GmtgY2RWMfAuOc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projeler\Javascript\react-ecom\src\components" />
+      <recent name="E:\Projeler\Javascript\react-ecom\src\components\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80345c79-89d1-4e4c-9778-ee49d0ab845e" name="Default Changelist" comment="" />
+      <created>1576966567006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576966567006</updated>
+      <workItem from="1576966568270" duration="40738000" />
+      <workItem from="1577118134337" duration="53000" />
+      <workItem from="1577138425042" duration="17846000" />
+      <workItem from="1577204688798" duration="44606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="563" y="237" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577297467020">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="563" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577297467020" />
+    <state x="530" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577299273512">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="530" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577299273512" />
+    <state x="425" y="29" key="CommitChangelistDialog2" timestamp="1577149064638">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="425" y="29" key="CommitChangelistDialog2/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577149064638" />
+    <state width="1579" height="122" key="GridCell.Tab.0.bottom" timestamp="1577370699152">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1579" height="122" key="GridCell.Tab.0.bottom/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577370699152" />
+    <state width="1579" height="122" key="GridCell.Tab.0.center" timestamp="1577370699151">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1579" height="122" key="GridCell.Tab.0.center/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577370699151" />
+    <state width="1579" height="122" key="GridCell.Tab.0.left" timestamp="1577370699151">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1579" height="122" key="GridCell.Tab.0.left/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577370699151" />
+    <state width="1579" height="122" key="GridCell.Tab.0.right" timestamp="1577370699152">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1579" height="122" key="GridCell.Tab.0.right/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577370699152" />
+    <state x="392" y="167" key="Vcs.Push.Dialog.v2" timestamp="1577242183861">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="392" y="167" key="Vcs.Push.Dialog.v2/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577242183861" />
+    <state x="495" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1577204688830">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="495" y="258" key="com.intellij.ide.util.TipDialog/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577204688830" />
+    <state x="1673" y="18" width="1201" height="604" key="dock-window-1" timestamp="1577019677049">
+      <screen x="1600" y="-72" width="1440" height="870" />
+    </state>
+    <state x="1673" y="18" width="1201" height="604" key="dock-window-1/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577019677049" />
+    <state x="456" y="198" key="run.anything.popup" timestamp="1576975474256">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="456" y="198" key="run.anything.popup/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1576975474256" />
+    <state x="456" y="88" width="672" height="676" key="search.everywhere.popup" timestamp="1577315985168">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="456" y="88" width="672" height="676" key="search.everywhere.popup/0.0.1600.870/1600.-72.1440.870@0.0.1600.870" timestamp="1577315985168" />
   </component>
 </project>
